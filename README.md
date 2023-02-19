@@ -1,8 +1,7 @@
-# Hello-world
+# HELLO MICROVERSE PROJECT
 
 
 
-                                          <h3><b>HELLO MICROVERSE PROJECT</b></h3>
 
 </div>
 
