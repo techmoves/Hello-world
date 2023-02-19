@@ -33,7 +33,7 @@
 
 > A "Hello microverse" HTML-5 repository built during the portal learning module.
 
-> It is a show of my understanding of Gitflow, use of Linters and basic HTML5 and CSS3.
+> It is just a basic understanding  of Gitflow, use of Linters and basic HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
