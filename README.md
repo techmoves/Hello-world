@@ -1,136 +1,164 @@
-# hello-microverse
-This is just basic min-project to must github flow 
+
+# HELLO MICROVERSE PROJECT
 
 
-Microverse README Template
 
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 [your_project_name]
-Describe your project in 1 or 2 sentences.
 
-[your_project__name] is a...
+</div>
 
-🛠 Built With
-Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+<!-- TABLE OF CONTENTS -->
 
-Client
-Server
-Database
-Key Features
-Describe between 1-3 key features of the application.
+# 📗 Table of Contents
 
-[key_feature_1]
-[key_feature_2]
-[key_feature_3]
-(back to top)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  - [Tech Stack](#tech-stack)
+  - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-🚀 Live Demo
-Add a link to your deployed project.
+<!-- PROJECT DESCRIPTION -->
 
-Live Demo Link
-(back to top)
+# 📖 HELLO microverse <a name="about-project"></a>
 
-💻 Getting Started
-Describe how a new developer could make use of your project.
+> A "Hello microverse" HTML-5 repository built during the portal learning module.
+
+> It is just a basic understanding  of Gitflow, use of Linters and basic HTML and CSS.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>HTML5</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/default.asp">HTML Tutorial</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS3</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/css/default.asp">CSS Tutorial</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Linters for HTML5/CSS3</summary>
+  <ul>
+    <li><a href="https://www.testim.io/blog/what-is-a-linter-heres-a-definition-and-quick-start-guide/">Linters Tutorial</a></li>
+  </ul>
+</details>
+
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
-In order to run this project you need:
+### Prerequisites
 
-Setup
-Clone this repository to your desired folder:
+- Git Installed
+- npm Installed
+- Code Editor Instaled
 
-Install
-Install this project with:
+### Setup
 
-Usage
-To run the project, execute the following command:
+- Clone this repository to your desired folder  https://github.com/techmoves/hello-microverse.git
+- Run the command npm install to install necessary dependencies contained in the package.json file
 
-Run tests
-To run tests, run the following command:
+### Install
 
-Deployment
-You can deploy this project using:
+Install this project with these cmd:
 
-(back to top)
+- cd Desktop/
+- git clone using repository link
+- cd Hello-world/
+- git branch branch_name
+- git checkout branch_name
 
-👥 Authors
-Mention all of the collaborators of this project.
+## Usage
 
-👤 Author1
+- To run the project, open it in the Live Server to see it live onto our Local Machine.
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-👤 Author2
+### Run tests
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-(back to top)
+- To run tests run :
+- npx hint .
+- npx stylelint "\*_/_.{css,scss}"
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
 
- [new_feature_1]
- [new_feature_2]
- [new_feature_3]
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🤝 Contributing
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+> 👤 **Phelelani Ndlovu**
+
+- GitHub: @techmoves
+- Twitter: @Dopezonke_
+- LinkedIn: https://www.linkedin.com/in/phelelani-ndlovu-883916160/
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[To Add more styling to the page]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page]
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+<!-- SUPPORT -->
 
-If you like this project...
+## ⭐️ Show your support <a name="support"></a>
 
-(back to top)
+Give a ⭐️ if you like this project!
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-I would like to thank...
+<!-- ACKNOWLEDGEMENTS -->
 
-(back to top)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-[Question_1]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Answer_1]
-[Question_2]
+<!-- LICENSE -->
+https://github.com/techmoves/hello-microverse
 
-[Answer_2]
-(back to top)
+## 📝 License <a name="license"></a>
 
-📝 License
-This project is MIT licensed.
+This project is [MIT](https://github.com/techmoves/hello-microverse/blob/feature/integration/MIT.md) licensed.
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+>>>>>>> main
